@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **if I want to work in your company like a devleoper**
+- 💬 Ask me about **if you want me working in your company like a devleoper**
 
 - 📫 How to reach me **levbudylskii@gmail.com**
 
