@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lev Budylskii</h1>
-<h3 align="center">Beginner developer learning Rust, C, Python</h3>
+<h3 align="center">Beginner blockchain developer</h3>
 
-- 🔭 I’m currently working on **learning Rust**
+- 🔭 I’m currently working on **Exploring blockchain development**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **How to work with TON**
 
 - 💬 Ask me about **if you want me working in your company like a devleoper**
 
