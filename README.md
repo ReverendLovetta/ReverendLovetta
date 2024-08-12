@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Exploring blockchain development**
 
-- 🌱 I’m currently learning **How to work with TON**
+- 🌱 I’m currently learning **How to work with Solidity**
 
 - 💬 Ask me about **if you want me working in your company like a devleoper**
 
