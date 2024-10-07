@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently **Exploring blockchain development**<br>🌱 Exploring the full process of Solidity smart contract development<br>💬 **Ask me about how I can contribute to your team as a software engineer**<br>📫 How to reach me levbudylskii@gmail.com<br>⚡ Languages, which I speak: Russian, English
+🔭 I’m currently **Learning full stack Java development**<br>🌱 Exploring Java, SQL, Javalin, Spring<br>💬 **Ask me about how I can contribute to your team as a software engineer**<br>📫 How to reach me levbudylskii@gmail.com<br>⚡ Languages, which I speak: Russian, English
 
 
 ## 🌐 Socials:
